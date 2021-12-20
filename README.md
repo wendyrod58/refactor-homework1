@@ -11,4 +11,4 @@ https://wendyrod58.github.io/refactor-homework1/
 
 ## Sample Screenshot: 
 
-![text](screenshot.png)
+![Landing Page](https://github.com/wendyrod58/refactor-homework1/blob/main/Code-Refractor-Sample.png)
